@@ -1,5 +1,9 @@
 
 from pyscript import document
+import json 
+{
+    "packages": ["arrr"]
+}
 
 def show(a):
     show=document.querySelector('#input32')
